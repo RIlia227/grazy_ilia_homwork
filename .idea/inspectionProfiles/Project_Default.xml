@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.randint" />
+          <option value="main.MyWidget.comboBox" />
+          <option value="main.MyWidget.mark" />
+          <option value="main.MyWidget.name" />
+          <option value="main.MyWidget.cost" />
+          <option value="main.MyWidget.power" />
+          <option value="main.MyWidget.amount" />
+          <option value="main.MyWidget.tableWidget" />
+          <option value="main.MyWidget.add" />
+          <option value="main.MyWidget.delete" />
+          <option value="main.MyWidget.delete_2" />
+          <option value="main.Add.clicked" />
+          <option value="PyQt5.QtWidgets.create.*" />
+          <option value="main.MyWidget.mark_b" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
